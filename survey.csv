@@ -1,0 +1,157 @@
+Overall rank,Name of the student,CGPA,Department,Attendence
+1,Aarav K.,3,CSE,78
+2,Aditi R.,2.8,ECE,89
+3,Akash S.,2.5,AIML,56
+4,Ananya M.,3 .9,MECH,72
+5,Anil G.,2 .7,EEE,41
+6,Anjali P.,3 .6,CSE,65
+7,Arjun N.,2 .5,ECE,94
+8,Ayesha A.,1 .8,AIML,48
+9,Bhavya D.,2 .5,MECH,38
+10,Chetan K.,3.8,EEE,61
+11,Deepika B.,2 .7,CSE,80
+12,Devansh S.,5,ECE,96
+13,Divya R.,4 .8,AIML,73
+14,Eshaan M.,3 .6,MECH,67
+15,Fatima H.,3.2,EEE,42
+16,Gautam R.,4.5,CSE,57
+17,Gauri P.,3.6,ECE,88
+18,Harish K.,2. 8,AIML,47
+19,Ishita J.,3.6,MECH,71
+20,Ishaan T.,2. 8,EEE,95
+21,Janhvi S.,4.5,CSE,84
+22,Jatin R.,5,ECE,77
+23,Kavya G.,1.7,AIML,54
+24,Karan D.,2. 8,MECH,62
+25,Kiara L.,3.6,EEE,37
+26,Krish A.,4.5,CSE,87
+27,Lavanya S.,4.5,ECE,58
+28,Mahesh P.,3.6,AIML,44
+29,Manisha V.,4.5,MECH,75
+30,Meera R.,4.5,EEE,93
+31,Mohan G.,4.5,CSE,68
+32,Naina B.,3.6,ECE,86
+33,Natasha S.,5,AIML,39
+34,Neel D.,2. 8,MECH,59
+35,Neha M.,2. 8,EEE,82
+36,Nikhil K.,4.5,CSE,66
+37,Nisha S.,2. 8,ECE,90
+38,Omkar V.,2. 8,AIML,74
+39,Parth S.,4.5,MECH,45
+40,Pranav G.,2. 8,EEE,85
+41,Priya A.,2. 8,CSE,63
+42,Rahul R.,3.6,ECE,49
+43,Rajesh P.,1.7,AIML,79
+44,Rani T.,4.5,MECH,60
+45,Rishi S.,3.6,EEE,36
+46,Ritu M.,3.6,CSE,81
+47,Rohan N.,3.6,ECE,55
+48,Sahil K.,4.5,AIML,91
+49,Sakshi R.,2. 8,MECH,40
+50,Sameer D.,3.6,EEE,98
+51,Sanjana S.,3.6,CSE,97
+52,Shaan M.,5,ECE,76
+53,Shalini R.,2. 8,AIML,83
+54,Shantanu S.,2. 8,MECH,70
+55,Shefali P.,3.6,EEE,64
+56,Shivam G.,2. 8,CSE,50
+57,Shraddha A.,3.6,ECE,46
+58,Shreya S.,5,AIML,52
+59,Siddharth P.,3.6,MECH,69
+60,Simran D.,3.6,EEE,53
+61,Suman V.,5,CSE,92
+62,Suraj R.,3.6,ECE,51
+63,Tanisha M.,3.6,AIML,43
+64,Tarun S.,4.5,MECH,99
+65,Trisha B.,1.7,EEE,35
+66,Udit K.,4.5,CSE,58
+67,Urvashi R.,4.5,ECE,44
+68,Vanshika S.,2. 8,AIML,61
+69,Varun T.,3.6,MECH,86
+70,Vidya M.,2. 8,EEE,78
+71,Vijay S.,2. 8,CSE,75
+72,Vikas R.,4.5,ECE,63
+73,Vishal P.,1.7,AIML,53
+74,Yash K.,4.5,MECH,93
+75,Yuvraj D.,4.5,EEE,67
+76,Zara A.,2. 8,CSE,70
+77,Zoya R.,3.6,ECE,42
+78,Aarohi B.,3.6,AIML,90
+79,Aakash S.,3.6,MECH,48
+80,Aanya R.,4.5,EEE,74
+81,Adarsh P.,3.6,CSE,56
+82,Amrita G.,3.6,ECE,83
+83,Arnav S.,3.6,AIML,88
+84,Arya K.,4.5,MECH,84
+85,Asha M.,4.5,EEE,68
+86,Avinash D.,2. 8,CSE,96
+87,Bhavna R.,3.6,ECE,79
+88,Chinmay A.,3.6,AIML,98
+89,Deepak S.,2. 8,MECH,73
+90,Devika R.,2. 8,EEE,87
+91,Dhruv G.,1.7,CSE,35
+92,Eeshaan M.,2. 8,ECE,99
+93,Farhan K.,3.6,AIML,82
+94,Gitanjali P.,5,MECH,38
+95,Hema S.,3.6,EEE,45
+96,Inderjeet K.,3.6,CSE,41
+97,Iqbal M.,3.6,ECE,47
+98,Jaya R.,3.6,AIML,94
+99,Jeevan P.,5,MECH,65
+100,Kritika S.,4.5,EEE,46
+101,Lakshmi V.,3.6,CSE,59
+102,Mahima S.,3.6,ECE,55
+103,Manoj R.,3.6,AIML,36
+104,Meenakshi G.,5,MECH,62
+105,Mihir A.,3.6,EEE,50
+106,Natasha R.,2. 8,CSE,85
+107,Naveen S.,2. 8,ECE,52
+108,Nirav D.,2. 8,AIML,57
+109,Pallavi M.,2. 8,MECH,80
+110,Parul R.,2. 8,EEE,49
+111,Pooja S.,1.7,CSE,89
+112,Pratik D.,4.5,ECE,72
+113,Priyanka A.,3.6,AIML,37
+114,Raghav P.,3.6,MECH,71
+115,Rajan G.,3.6,EEE,66
+116,Ranjana S.,4.5,CSE,69
+117,Reena M.,2. 8,ECE,54
+118,Rishabh T.,2. 8,AIML,91
+119,Rituja P.,4.5,MECH,64
+120,Rudra S.,2. 8,EEE,97
+121,Sahana R.,1.7,CSE,40
+122,Samir G.,3.6,ECE,81
+123,Sandhya P.,3.6,AIML,60
+124,Sara M.,3.6,MECH,77
+125,Shailesh K.,5,EEE,95
+126,Sharmila R.,4.5,CSE,43
+127,Shikha S.,4.5,ECE,76
+128,Shiva T.,3.6,AIML,92
+129,Shubham R.,2. 8,MECH,51
+130,Siddhi A.,4.5,EEE,39
+131,Suhana S.,2. 8,CSE,58
+132,Sumanth K.,2. 8,ECE,78
+133,Tanvi R.,5,AIML,44
+134,Tejas D.,2. 8,MECH,93
+135,Trisha S.,3.6,EEE,89
+136,Uday N.,2. 8,CSE,86
+137,Urmila R.,2. 8,ECE,65
+138,Vansh S.,1.7,AIML,75
+139,Vibha P.,3.6,MECH,73
+140,Vicky R.,5,EEE,74
+141,Vikram G.,1.7,CSE,35
+142,Vinita S.,3.6,ECE,82
+143,Vrinda R.,4.5,AIML,96
+144,Yashika M.,4.5,MECH,80
+145,Yuvika S.,2. 8,EEE,53
+146,Zaheer K.,2. 8,CSE,68
+147,Zainab A.,1.7,ECE,47
+148,Aadhira R.,1.7,AIML,57
+149,Aaditya S.,2. 8,MECH,42
+150,Alok N.,3.6,EEE,99
+151,Anushka S.,4.5,CSE,61
+152,Armaan K.,3.6,ECE,48
+153,Avani R.,3.231,AIML,90
+154,Deepali M.,3.203,MECH,79
+155,Devraj P.,3.083,EEE,86
+156,Sai krithi,2.853,ECE,80
